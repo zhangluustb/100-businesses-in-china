@@ -1,0 +1,24 @@
+# Next.js
+100-biz-guide/.next/
+100-biz-guide/node_modules/
+100-biz-guide/out/
+
+# Python
+__pycache__/
+*.pyc
+venv/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# CodeFlicker
+.codeflicker/
+
+# Env
+.env
+.env.local
